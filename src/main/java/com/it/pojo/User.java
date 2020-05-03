@@ -7,6 +7,6 @@ package com.it.pojo;
  * @date 2020/5/3
  */
 public class User {
-    private String name;
-    private int age;
+    private String name;//姓名
+    private int age;//年龄
 }
